@@ -1,7 +1,7 @@
 {
   "name": "grunt-lzma-compress",
   "description": "Compress files with LZMA using LZMA-JS.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/softworkz/grunt-lzma-compress",
   "author": {
     "name": "softworkz",
@@ -21,19 +21,23 @@
     }
   ],
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">=10.16"
   },
   "scripts": {
     "test": "grunt test"
+  },
+  "dependencies": {
+    "lzma": "^2.3.2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-clean": "^0.5.0",
     "grunt-contrib-jshint": "^3.2.0",
-    "grunt-contrib-nodeunit": "^0.3.3",
-    "lzma": "^2.3.2"
+    "grunt-contrib-nodeunit": "^0.3.3"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "compress",
+    "lzma"
   ]
 }
