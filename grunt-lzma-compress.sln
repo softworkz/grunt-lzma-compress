@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "grunt-lzma-compress", "grunt-lzma-compress.njsproj", "{608BA1B2-09EB-4D44-A9F9-D642A2ED7E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608BA1B2-09EB-4D44-A9F9-D642A2ED7E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608BA1B2-09EB-4D44-A9F9-D642A2ED7E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608BA1B2-09EB-4D44-A9F9-D642A2ED7E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608BA1B2-09EB-4D44-A9F9-D642A2ED7E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819C0C13-6C7B-4E27-AB8C-D2EF8505A27F}
+	EndGlobalSection
+EndGlobal
